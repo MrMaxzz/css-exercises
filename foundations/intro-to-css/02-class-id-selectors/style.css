@@ -1,1 +1,21 @@
 /* Add CSS Styling */
+.rb-blt {
+  color: black;
+  background-color: rgb(255, 147, 147);
+}
+
+.lg-txt {
+  font-size: 30px;
+}
+
+#blue-txt {
+  font-size: 50px;
+  color: blue;
+}
+
+#green-txt {
+  color: black;
+  font-size: 22px;
+  font-weight: bold;
+  background-color: rgb(135, 255, 135);
+}
